@@ -4,7 +4,7 @@ export const Navbar = () => {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div className="container-fluid">
-				<span className="navbar-text" aria-current="page">
+				<span className="navbar-text text-light" aria-current="page">
 					Start Boostrap
 				</span>
 				<div
